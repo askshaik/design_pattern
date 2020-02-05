@@ -1,1 +1,1 @@
-Design Patterns training at Samsung Feb 2020
+Design Patterns training in Feb 2020
